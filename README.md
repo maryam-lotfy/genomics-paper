@@ -1,2 +1,2 @@
 # genomics-paper
-A summarization of the Evolutionary genomics can improve prediction of species’ responses to climate change paper
+A Streamlined Approach to Pathway Analysis from RNA-Sequencing Data
